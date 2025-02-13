@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: rgb(254, 162, 162);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#first-id {
+  color: rgb(14, 151, 255);
+  font-size: 36px;
+}
+
+.third-element {
+  font-size: 24px;
+}
+
+#forth-element {
+  background-color: rgb(34, 230, 34);
+  font-size: 24px;
+  font-weight: bold;
+}
